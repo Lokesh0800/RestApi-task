@@ -144,7 +144,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'lokesh.cool33@gmail.com' 
-EMAIL_HOST_PASSWORD = 'mztcbgscaoavrooo'    #google App password for smtp
+EMAIL_HOST_PASSWORD = ''    #google App password for smtp
 
 CACHES = {
     "default": {
